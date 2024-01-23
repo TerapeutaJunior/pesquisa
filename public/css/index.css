@@ -41,8 +41,13 @@ body {
 
 }
 
+.link {
+    border-radius: 10px;
+}
+
 .link:hover {
-    background-color: #ffffff0c;
+    background-color: #ffffff1f;
+
 }
 
 .iframe {
@@ -55,11 +60,13 @@ body {
     width: 500px;
     max-width: 100%;
 }
-iframe{
-    width:560px;
-    height:315px;
+
+iframe {
+    width: 560px;
+    height: 315px;
     max-width: 100%;
     max-height: 100%;
 
 }
+
 @media screen and (min-width: 1150px) {}
