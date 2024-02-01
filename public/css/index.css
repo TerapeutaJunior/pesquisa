@@ -10,6 +10,12 @@
 
 body {
     background-color: var(--body-bg-color-bacground);
+    
+}
+
+.img-header {
+    filter: drop-shadow(-8px 8px 4px #414040);
+    width: 220px;
 }
 
 .col-img {
